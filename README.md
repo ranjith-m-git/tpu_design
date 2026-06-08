@@ -1,10 +1,10 @@
-# 🧠 Systolic TPU Engine — SystemVerilog Implementation
+#  Systolic TPU Engine — SystemVerilog Implementation
 
 A synthesizable, parameterized **Tensor Processing Unit (TPU)** core implemented in SystemVerilog. This project models the key architectural ideas behind Google's TPU: a weight-stationary systolic array performing **FP8 × BF16 → FP32** matrix multiplication, orchestrated by a finite-state-machine controller and surrounded by synchronous FIFOs for streaming data in/out.
 
 ---
 
-## 📚 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Architecture](#architecture)
